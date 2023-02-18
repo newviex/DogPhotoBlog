@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: green;
+    text-align: center;
+}
+/* .section1{
+    background-image: url(/images/pexels-helena-lopes-3292065.jpg);
+} */
+h1{
+    background-color: orangered;
+}
